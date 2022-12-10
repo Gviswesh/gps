@@ -4,7 +4,7 @@ I was aiming to provide a good and easily programmable Global Positioning System
 ## Motivation behind this Project
 I was wondering how to use the GPS of the system efficiently and basically the inquistiveness behind the working of GPS in mobile sysytems drove me towards trying out creation of a GPS app. This app has taught me a lot about how GPS is used and most importantly I learnt how to request the user access in Android devices. The reason behing choosing Java is simple, I am more comfortable with Java and I am still very new to Kotlin and Python app creation. Java has it's own unique challenges but still it is the most fun language to use for learnning and creation of anything. 
 ## Features
-This app utilises the GPS to didsplay the Latitude and Longitude of your location. It displays Altitude in a second page which I will be explaining in a minute. This is a simple app so it requests the permission from the user and then displays the location
+This app utilises the GPS to display the Latitude and Longitude of your location. It displays Altitude in a second page which I will be explaining in a minute. This is a simple app so it requests the permission from the user and then displays the location
 ## How to Use
 Before launching this app I would recommend you to turn on your device's location and open Google Maps. In Google Maps, tap the GPS button in the right bottom corner. This enables the GPS to track your current location. If you want you can point to your desired location as well. Please note that a stable Internet connection is recommended. After that open the app and give the requesting permission.
 

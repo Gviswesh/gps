@@ -9,8 +9,9 @@ This app utilizes the GPS to display the Latitude and Longitude of your location
 ### Launching on Real Device
 Before launching this app turn on your device's location and open Google Maps. In Google Maps, tap the GPS button in the right bottom corner enabling GPS to find your current location. There is the option of pointing your desired location as well. Please note that a stable Internet connection is a requisite for optimum functionality. Finally, open the app and give the requesting permission.
 
-<br> **NOTE: The app won't be collecting any of your device's location history nor will it track your current location.**
-
-<br>After permission is granted, go to mutlitasker and first remove the app from the recently viewed apps and then re-launch the app. This is necessary due to a bug preventing the app from displaying the GPS coordinates immediately after granting the permission. The app will be able to display the coordinates after it is re-launched. 
+After permission is granted, go to mutlitasker and first remove the app from the recently viewed apps and then re-launch the app. This is necessary due to a bug preventing the app from displaying the GPS coordinates immediately after granting the permission. The app will be able to display the coordinates after it is re-launched. 
 ### Launching through Virtual Device
 If you are trying to run the app through emulator then kindly use Android 9 or above. After creating the virtual device, cold boot it. After it boots, open **Extended Controls** then open the **Location** tab. Make sure the **Enable GPS Signal** toggle is on by default. Now point your desired location and click **Set Location** button. This is the location the app will display as your current location. After this, follow the instructions  for opening the app given in [How to Use](https://github.com/Gviswesh/gps/edit/main/README.md#launching-on-real-device).
+
+<br> **NOTE: The app won't be collecting any of your device's location history nor will it track your current location.**
+
